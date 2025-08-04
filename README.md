@@ -2,7 +2,6 @@
 
 
 Mobile UI Design
-
 <img src="https://drive.google.com/uc?id=13jaAyJq15sYqbOWKXR-N_XzRiAJK6cUM" alt="Preview" style="max-width: 100%; height: auto;">
 
 Advertisement
